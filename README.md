@@ -11,14 +11,18 @@ Contributers:
  * Jacob R Richards
 
 Introduction
-Welcome to BOOGLE the Boolean Algebra Calculator and Simulator, an easy-to-use tool designed to help students and enthusiasts learn and apply the principles of Boolean algebra. This project allows users to perform basic Boolean operations and simulate their logic circuits interactively.
+Welcome to BOOGLE, your go-to Boolean Algebra Calculator and Simulator. This user-friendly tool is crafted to assist both students and enthusiasts in mastering and applying Boolean algebra. It offers an interactive platform for performing basic Boolean operations and simulating logic circuits.
 
 Features
-Boolean Operations: Perform operations like AND, OR, NOT, XOR, and NAND.
-The easy to use and intuitive input and installation makes this calculator/evaluator a great resource for your Boolean needs.
 
-For installation and user information, please refer to the user manual in the documents folder.
+Boolean Operations: Easily perform operations like AND, OR, NOT, XOR, and NAND.
+User-Friendly Interface: Our intuitive design ensures a smooth user experience, making this tool an excellent resource for all your Boolean algebra needs.
+Getting Started
+For installation instructions and user guidelines, please consult the user manual available in the documents folder.
 
-The Meeting Notes folder contains a log of each member's individual development and contribution, sorted by each weekly in person Monday meeting.
+Documentation
 
-The Source Code folder contains the C++ code for reference and compiling for Linux users
+Documents Folder: Houses all essential documentation, including development, testing, deployment details, and visual aids like class and use-case diagrams to enhance understanding.
+Meeting Notes Folder: Contains detailed logs of each team member’s contributions, organized by our weekly Monday meetings.
+Source Code Folder: Provides the C++ code necessary for reference and compilation on Linux systems.
+Explore BOOGLE today and enhance your understanding of Boolean algebra with ease!
