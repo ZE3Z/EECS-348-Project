@@ -11,6 +11,7 @@ Contributers:
  * Jacob R Richards
 
 Introduction
+
 Welcome to BOOGLE, your go-to Boolean Algebra Calculator and Simulator. This user-friendly tool is crafted to assist both students and enthusiasts in mastering and applying Boolean algebra. It offers an interactive platform for performing basic Boolean operations and simulating logic circuits.
 
 Features
