@@ -24,6 +24,9 @@ For installation instructions and user guidelines, please consult the user manua
 Documentation
 
 Documents Folder: Houses all essential documentation, including development, testing, deployment details, and visual aids like class and use-case diagrams to enhance understanding.
+
 Meeting Notes Folder: Contains detailed logs of each team member’s contributions, organized by our weekly Monday meetings.
+
 Source Code Folder: Provides the C++ code necessary for reference and compilation on Linux systems.
+
 Explore BOOGLE today and enhance your understanding of Boolean algebra with ease!
