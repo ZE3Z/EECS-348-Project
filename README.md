@@ -23,17 +23,3 @@ To set up the Boolean Algebra Calculator and Simulator on your local machine, fo
 
 # Clone the repository
 git clone https://github.com/ZE3Z/EECS-348-Project/main/BOOGLE.git
-
-# Navigate to the project directory
-cd BOOGLE
-
-# Install dependencies (if any)
-npm install
-
-# Run the application
-npm start
-
-Usage
-To use the calculator, enter your Boolean expression in the input field and select the operation you want to perform. The calculator will display the results instantly.
-
-For simulation, enter the expression and click on "Simulate." The tool will show the corresponding logic circuit and the truth table.
