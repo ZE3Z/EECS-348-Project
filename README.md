@@ -15,11 +15,4 @@ Welcome to BOOGLE the Boolean Algebra Calculator and Simulator, an easy-to-use t
 
 Features
 Boolean Operations: Perform operations like AND, OR, NOT, XOR, and NAND.
-Truth Table Generator: Automatically generate truth tables for custom Boolean expressions.
-Logic Circuit Simulation: Visualize how Boolean expressions can be represented as logic circuits.
-User-Friendly Interface: Simple and intuitive interface for all levels of users.
-Installation
-To set up the Boolean Algebra Calculator and Simulator on your local machine, follow these steps:
-
-# Clone the repository
-git clone https://github.com/ZE3Z/EECS-348-Project/main/BOOGLE.git
+The easy to use and intuitive input and installation makes this calculator/evaluator a great resource for your Boolean needs.
